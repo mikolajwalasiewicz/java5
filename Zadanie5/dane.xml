@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE dane SYSTEM "dane.dtd">
+<dane>
+	<imie>Pawel</imie>
+	<nazwisko>Kowalski</nazwisko>
+	<zarobki wartosc="brutto" waluta="zl">3423</zarobki>
+	<zarobki wartosc="netto" waluta="zl">2198</zarobki>
+	<!--zestawienie zarobkow-->
+</dane>

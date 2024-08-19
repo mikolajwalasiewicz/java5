@@ -1,0 +1,11 @@
+<!ELEMENT dane (imie,nazwisko,zarobki,zarobki)>
+
+<!ELEMENT imie (#PCDATA)>
+
+<!ELEMENT nazwisko (#PCDATA)>
+
+<!ELEMENT zarobki (#PCDATA)>
+
+<!ATTLIST zarobki wartosc (netto|brutto) "brutto">
+
+<!ATTLIST zarobki waluta (zl|dolar) "zl">
